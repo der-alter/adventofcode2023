@@ -16,7 +16,7 @@
 (documentation https://url/to/documentation)
 
 (package
- (name adventofcode2023)
+ (name adventofcode2023) 
  (synopsis "A short synopsis")
  (description "A longer description")
  (depends ocaml dune)
